@@ -4,6 +4,7 @@ A machine learning web application built with Streamlit to classify emails or SM
 website link:https://ajay-kumar-prasad-email-spam-classifier-using-naive--app-cgd9gw.streamlit.app/
 
 ![alt text](image.png)
+![alt text](image-6.png)
 
 # Model and Data
 
