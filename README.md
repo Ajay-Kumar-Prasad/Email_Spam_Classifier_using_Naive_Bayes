@@ -50,15 +50,17 @@ Model Accuracy:     Achieved ~97% accuracy for Multinomial Naive Bayes model
 
 Used different ML algorithms to train and test the data:-
 
-Model	Accuracy	Precision
-Gaussian Naive Bayes	0.8501	0.8483
-Multinomial Naive Bayes	0.9739	0.9310
-Bernoulli Naive Bayes	0.9652	0.7793
-Logistic Regression	0.9778	0.8621
-Support Vector Classifier	0.9284	0.7172
-K-Nearest Neighbors	0.9043	0.3172
-Decision Tree Classifier	0.9217	0.4621
-Random Forest Classifier	0.9632	0.7448
+
+| Model                     | Accuracy | Precision |
+| ------------------------- | -------- | --------- |
+| Gaussian Naive Bayes      | 0.8501   | 0.8483    |
+| Multinomial Naive Bayes   | 0.9739   | 0.9310    |
+| Bernoulli Naive Bayes     | 0.9652   | 0.7793    |
+| Logistic Regression       | 0.9778   | 0.8621    |
+| Support Vector Classifier | 0.9284   | 0.7172    |
+| K-Nearest Neighbors       | 0.9043   | 0.3172    |
+| Decision Tree Classifier  | 0.9217   | 0.4621    |
+| Random Forest Classifier  | 0.9632   | 0.7448    |
 
 
 # Project Structure
