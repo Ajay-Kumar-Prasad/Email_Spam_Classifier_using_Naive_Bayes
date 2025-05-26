@@ -11,6 +11,8 @@ Algorithm: Multinomial Naive Bayes
 Vectorization: TF-IDF
 Dataset: SMS Spam Collection Dataset
 
+![alt text](image-1.png)
+
 # How the Model Works
 
 This project uses a Multinomial Naive Bayes classifier to detect spam in SMS or email messages. Here's a quick overview of the workflow:
@@ -21,6 +23,14 @@ Convert text to lowercase
 Tokenize using NLTK's TreebankWordTokenizer
 Remove non-alphanumeric words and stopwords
 Apply stemming with PorterStemmer
+
+# Spam data
+![alt text](image-2.png)
+![alt text](image-3.png)
+
+# Ham data
+![alt text](image-4.png)
+![alt text](image-5.png)
 
 2.Feature Extraction:
 
@@ -34,6 +44,9 @@ A trained Multinomial Naive Bayes model classifies the message as Spam or Not Sp
 
 Input message → Preprocessing → Vectorization → Model Prediction → Output on Streamlit UI
 
+# Results
+
+Model Accuracy:     Achieved ~97% accuracy
 # Project Structure
 .
 ├── app.py                  # Streamlit app
