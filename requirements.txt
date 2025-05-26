@@ -5,5 +5,4 @@ scikit-learn
 seaborn
 nltk
 wordcloud
-pickle
 streamlit
