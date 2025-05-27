@@ -3,8 +3,8 @@ A machine learning web application built with Streamlit to classify emails or SM
 
 website link:https://ajay-kumar-prasad-email-spam-classifier-using-naive--app-cgd9gw.streamlit.app/
 
-![alt text](image.png)
-![alt text](image-6.png)
+![alt text](/images/image.png)
+![alt text](/images/image-6.png)
 
 # Model and Data
 
@@ -12,7 +12,7 @@ Algorithm: Multinomial Naive Bayes
 Vectorization: TF-IDF
 Dataset: SMS Spam Collection Dataset
 
-![alt text](image-1.png)
+![alt text](/images/image-1.png)
 
 # How the Model Works
 
@@ -26,12 +26,12 @@ Remove non-alphanumeric words and stopwords
 Apply stemming with PorterStemmer
 
 # Spam data
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](/images/image-2.png)
+![alt text](/images/image-3.png)
 
 # Ham data
-![alt text](image-4.png)
-![alt text](image-5.png)
+![alt text](/images/image-4.png)
+![alt text](/images/image-5.png)
 
 2.Feature Extraction:
 
